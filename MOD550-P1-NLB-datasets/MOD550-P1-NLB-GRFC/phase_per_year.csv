@@ -1,0 +1,1324 @@
+ISO Code 3,Countries/territories,Region,Year of reference,Population group selected,Population in Phase 1 #,Population in Phase 2 #,Population in Phase 3 #,Population in Phase 4 #,Population in Phase 5 #
+AFG,Afghanistan,ASIA,2016.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2017.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2018.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2019.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2020.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2021.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2022.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2023.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2024.0,Whole country,False,False,False,True,False
+AFG,Afghanistan,ASIA,2025.0,Whole country,False,False,False,True,False
+ALB,Albania,MENA,2016.0,,False,False,False,False,False
+ALB,Albania,MENA,2017.0,,False,False,False,False,False
+ALB,Albania,MENA,2018.0,,False,False,False,False,False
+ALB,Albania,MENA,2019.0,,False,False,False,False,False
+ALB,Albania,MENA,2020.0,,False,False,False,False,False
+ALB,Albania,MENA,2021.0,,False,False,False,False,False
+ALB,Albania,MENA,2022.0,,False,False,False,False,False
+ALB,Albania,MENA,2023.0,,False,False,False,False,False
+ALB,Albania,MENA,2024.0,,False,False,False,False,False
+DZA,Algeria,MENA,2016.0,,False,False,False,False,False
+DZA,Algeria,MENA,2017.0,,False,False,False,False,False
+DZA,Algeria,MENA,2018.0,Refugees,False,False,False,False,False
+DZA,Algeria,MENA,2019.0,Refugees,False,False,False,False,False
+DZA,Algeria,MENA,2020.0,Refugees,False,False,False,False,False
+DZA,Algeria,MENA,2021.0,Refugees,False,False,False,False,False
+DZA,Algeria,MENA,2022.0,Refugees,False,True,False,False,False
+DZA,Algeria,MENA,2023.0,Refugees,False,True,False,False,False
+DZA,Algeria,MENA,2024.0,Refugees,False,True,False,False,False
+DZA,Algeria,MENA,2025.0,Refugees,False,False,False,False,False
+ASM,American Samoa,LAC,2016.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2017.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2018.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2019.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2020.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2021.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2022.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2023.0,,False,False,False,False,False
+ASM,American Samoa,LAC,2024.0,,False,False,False,False,False
+AGO,Angola,CS AFRICA,2016.0,,False,True,False,False,False
+AGO,Angola,CS AFRICA,2017.0,,False,True,False,False,False
+AGO,Angola,CS AFRICA,2018.0,,False,False,False,False,False
+AGO,Angola,CS AFRICA,2019.0,,False,False,False,True,False
+AGO,Angola,CS AFRICA,2020.0,Residents,False,False,False,True,False
+AGO,Angola,CS AFRICA,2021.0,,False,False,False,True,False
+AGO,Angola,CS AFRICA,2022.0,,False,False,False,True,False
+AGO,Angola,CS AFRICA,2023.0,Residents,False,True,False,False,False
+AGO,Angola,CS AFRICA,2024.0,,False,False,False,False,False
+ARG,Argentina,LAC,2016.0,,False,False,False,False,False
+ARG,Argentina,LAC,2017.0,,False,False,False,False,False
+ARG,Argentina,LAC,2018.0,,False,False,False,False,False
+ARG,Argentina,LAC,2019.0,,False,False,False,False,False
+ARG,Argentina,LAC,2020.0,,False,False,False,False,False
+ARG,Argentina,LAC,2021.0,,False,False,False,False,False
+ARG,Argentina,LAC,2022.0,,False,False,False,False,False
+ARG,Argentina,LAC,2023.0,,False,False,False,False,False
+ARG,Argentina,LAC,2024.0,,False,False,False,False,False
+ARM,Armenia,MENA,2016.0,,False,False,False,False,False
+ARM,Armenia,MENA,2017.0,,False,False,False,False,False
+ARM,Armenia,MENA,2018.0,,False,False,False,False,False
+ARM,Armenia,MENA,2019.0,,False,False,False,False,False
+ARM,Armenia,MENA,2020.0,,False,False,False,False,False
+ARM,Armenia,MENA,2021.0,,False,False,False,False,False
+ARM,Armenia,MENA,2022.0,,False,False,False,False,False
+ARM,Armenia,MENA,2023.0,Residents and refugees,False,False,False,False,False
+ARM,Armenia,MENA,2024.0,Refugees,False,False,False,False,False
+AZE,Azerbaijan,MENA,2016.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2017.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2018.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2019.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2020.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2021.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2022.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2023.0,,False,False,False,False,False
+AZE,Azerbaijan,MENA,2024.0,,False,False,False,False,False
+BGD,Bangladesh,ASIA,2016.0,Refugees,False,True,False,False,False
+BGD,Bangladesh,ASIA,2017.0,Whole country,False,False,False,True,False
+BGD,Bangladesh,ASIA,2018.0,Whole country,False,True,False,False,False
+BGD,Bangladesh,ASIA,2019.0,Whole country,False,True,False,False,False
+BGD,Bangladesh,ASIA,2020.0,Whole country,False,True,False,False,False
+BGD,Bangladesh,ASIA,2021.0,Whole country,False,True,False,False,False
+BGD,Bangladesh,ASIA,2022.0,Whole country,False,True,False,False,False
+BGD,Bangladesh,ASIA,2023.0,Whole country,False,False,False,True,False
+BGD,Bangladesh,ASIA,2024.0,Whole country,False,False,False,True,False
+BGD,Bangladesh,ASIA,2025.0,Whole country,False,False,False,False,False
+BLR,Belarus,MENA,2016.0,,False,False,False,False,False
+BLR,Belarus,MENA,2017.0,,False,False,False,False,False
+BLR,Belarus,MENA,2018.0,,False,False,False,False,False
+BLR,Belarus,MENA,2019.0,,False,False,False,False,False
+BLR,Belarus,MENA,2020.0,,False,False,False,False,False
+BLR,Belarus,MENA,2021.0,,False,False,False,False,False
+BLR,Belarus,MENA,2022.0,,False,False,False,False,False
+BLR,Belarus,MENA,2023.0,,False,False,False,False,False
+BLR,Belarus,MENA,2024.0,,False,False,False,False,False
+BLZ,Belize,LAC,2016.0,,False,False,False,False,False
+BLZ,Belize,LAC,2017.0,,False,False,False,False,False
+BLZ,Belize,LAC,2018.0,,False,False,False,False,False
+BLZ,Belize,LAC,2019.0,,False,False,False,False,False
+BLZ,Belize,LAC,2020.0,,False,False,False,False,False
+BLZ,Belize,LAC,2021.0,,False,False,False,False,False
+BLZ,Belize,LAC,2022.0,,False,False,False,False,False
+BLZ,Belize,LAC,2023.0,,False,False,False,False,False
+BLZ,Belize,LAC,2024.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2016.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2017.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2018.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2019.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2020.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2021.0,Residents,False,False,True,False,False
+BEN,Benin,WEST AFRICA,2022.0,,False,False,False,False,False
+BEN,Benin,WEST AFRICA,2023.0,Residents,False,False,False,True,False
+BEN,Benin,WEST AFRICA,2024.0,Refugees,False,False,False,False,False
+BTN,Bhutan,ASIA,2016.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2017.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2018.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2019.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2020.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2021.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2022.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2023.0,,False,False,False,False,False
+BTN,Bhutan,ASIA,2024.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2016.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2017.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2018.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2019.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2020.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2021.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2022.0,,False,False,False,False,False
+BOL,Bolivia,LAC,2023.0,Residents,False,False,False,False,False
+BOL,Bolivia,LAC,2024.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2016.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2017.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2018.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2019.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2020.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2021.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2022.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2023.0,,False,False,False,False,False
+BIH,Bosnia and Herzegovina,MENA,2024.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2016.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2017.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2018.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2019.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2020.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2021.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2022.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2023.0,,False,False,False,False,False
+BWA,Botswana,CS AFRICA,2024.0,,False,False,False,False,False
+BRA,Brazil,LAC,2016.0,,False,False,False,False,False
+BRA,Brazil,LAC,2017.0,,False,False,False,False,False
+BRA,Brazil,LAC,2018.0,,False,False,False,False,False
+BRA,Brazil,LAC,2019.0,,False,False,False,False,False
+BRA,Brazil,LAC,2020.0,,False,False,False,False,False
+BRA,Brazil,LAC,2021.0,,False,False,False,False,False
+BRA,Brazil,LAC,2022.0,,False,False,False,False,False
+BRA,Brazil,LAC,2023.0,,False,False,False,False,False
+BRA,Brazil,LAC,2024.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2016.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2017.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2018.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2019.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2020.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2021.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2022.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2023.0,,False,False,False,False,False
+BGR,Bulgaria,MENA,2024.0,,False,False,False,False,False
+BFA,Burkina Faso,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+BFA,Burkina Faso,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2020.0,Whole country,False,False,False,False,True
+BFA,Burkina Faso,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2023.0,Whole country,False,False,False,False,True
+BFA,Burkina Faso,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+BFA,Burkina Faso,WEST AFRICA,2025.0,Whole country,False,False,False,False,False
+BDI,Burundi,EAST AFRICA,2016.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2017.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2018.0,Whole country,False,True,False,False,False
+BDI,Burundi,EAST AFRICA,2019.0,Whole country,False,True,False,False,False
+BDI,Burundi,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2021.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2022.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2023.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2024.0,Whole country,False,False,False,True,False
+BDI,Burundi,EAST AFRICA,2025.0,Whole country,False,False,True,False,False
+CPV,Cabo Verde,WEST AFRICA,2016.0,,False,False,False,False,False
+CPV,Cabo Verde,WEST AFRICA,2017.0,,False,False,False,False,False
+CPV,Cabo Verde,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+CPV,Cabo Verde,WEST AFRICA,2019.0,Whole country,False,False,True,False,False
+CPV,Cabo Verde,WEST AFRICA,2020.0,Whole country,False,False,True,False,False
+CPV,Cabo Verde,WEST AFRICA,2021.0,Whole country,False,False,False,False,False
+CPV,Cabo Verde,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+CPV,Cabo Verde,WEST AFRICA,2023.0,,False,False,False,False,False
+CPV,Cabo Verde,WEST AFRICA,2024.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2016.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2017.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2018.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2019.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2020.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2021.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2022.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2023.0,,False,False,False,False,False
+KHM,Cambodia,ASIA,2024.0,,False,False,False,False,False
+CMR,Cameroon,WEST AFRICA,2016.0,Whole country,False,True,False,False,False
+CMR,Cameroon,WEST AFRICA,2017.0,Whole country,False,True,False,False,False
+CMR,Cameroon,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+CMR,Cameroon,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+CMR,Cameroon,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2016.0,Whole country,False,True,False,False,False
+CAF,Central African Republic,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+CAF,Central African Republic,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+TCD,Chad,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+TCD,Chad,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+TCD,Chad - displaced,WEST AFRICA,2023.0,Whole country,False,False,False,False,False
+TCD,Chad - displaced,WEST AFRICA,2024.0,Refugees,False,False,False,True,False
+TCD,Chad - displaced,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+CHN,China,ASIA,2016.0,,False,False,False,False,False
+CHN,China,ASIA,2017.0,,False,False,False,False,False
+CHN,China,ASIA,2018.0,,False,False,False,False,False
+CHN,China,ASIA,2019.0,,False,False,False,False,False
+CHN,China,ASIA,2020.0,,False,False,False,False,False
+CHN,China,ASIA,2021.0,,False,False,False,False,False
+CHN,China,ASIA,2022.0,,False,False,False,False,False
+CHN,China,ASIA,2023.0,,False,False,False,False,False
+CHN,China,ASIA,2024.0,,False,False,False,False,False
+COL,Colombia,LAC,2016.0,,False,False,False,False,False
+COL,Colombia,LAC,2017.0,,False,False,False,False,False
+COL,Colombia,LAC,2018.0,,False,False,False,False,False
+COL,Colombia,LAC,2019.0,,False,False,False,False,False
+COL,Colombia,LAC,2020.0,,False,False,False,False,False
+COL,Colombia,LAC,2021.0,,False,False,False,False,False
+COL,Colombia,LAC,2022.0,Residents and migrants,False,False,False,False,False
+COL,Colombia,LAC,2023.0,Whole country,False,False,False,False,False
+COL,Colombia,LAC,2024.0,Whole country,False,True,False,False,False
+COL,Colombia,LAC,2025.0,Whole country,False,False,False,False,False
+COL,Colombia - migrants,LAC,2016.0,,False,False,False,False,False
+COL,Colombia - migrants,LAC,2017.0,,False,False,False,False,False
+COL,Colombia - migrants,LAC,2018.0,Migrants,False,True,False,False,False
+COL,Colombia - migrants,LAC,2019.0,Migrants,False,True,False,False,False
+COL,Colombia - migrants,LAC,2020.0,Migrants,False,False,False,False,False
+COL,Colombia - migrants,LAC,2021.0,Migrants,False,False,False,False,False
+COL,Colombia - migrants,LAC,2022.0,Residents and migrants,False,True,False,False,False
+COL,Colombia - migrants,LAC,2023.0,Whole country,False,True,False,False,False
+COL,Colombia - migrants,LAC,2024.0,Migrants,False,True,False,False,False
+COL,Colombia - migrants,LAC,2025.0,Whole country,False,False,False,False,False
+COM,Comoros,CS AFRICA,2016.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2017.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2018.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2019.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2020.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2021.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2022.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2023.0,,False,False,False,False,False
+COM,Comoros,CS AFRICA,2024.0,,False,False,False,False,False
+COG,Congo,CS AFRICA,2016.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2017.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2018.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2019.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2020.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2021.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2022.0,Whole country,False,False,False,False,False
+COG,Congo,CS AFRICA,2023.0,Whole country,False,True,False,False,False
+COG,Congo,CS AFRICA,2024.0,Whole country,False,True,False,False,False
+COG,Congo,CS AFRICA,2025.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2016.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2017.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2018.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2019.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2020.0,Whole country,False,True,False,False,False
+COG,Congo - refugees,CS AFRICA,2021.0,Whole country,False,False,False,False,False
+COG,Congo - refugees,CS AFRICA,2022.0,Whole country,False,True,False,False,False
+COG,Congo - refugees,CS AFRICA,2023.0,Whole country,False,True,False,False,False
+COG,Congo - refugees,CS AFRICA,2024.0,Refugees,False,True,False,False,False
+COG,Congo - refugees,CS AFRICA,2025.0,Whole country,False,False,False,False,False
+CRI,Costa Rica,LAC,2016.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2017.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2018.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2019.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2020.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2021.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2022.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2023.0,,False,False,False,False,False
+CRI,Costa Rica,LAC,2024.0,,False,False,False,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2017.0,Whole country,False,False,False,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2019.0,Whole country,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2020.0,Whole country,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2021.0,Whole country,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2022.0,,False,False,False,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2023.0,Residents and refugees,False,False,True,False,False
+CIV,Côte d'Ivoire,WEST AFRICA,2024.0,Refugees,False,False,False,False,False
+CUB,Cuba,LAC,2016.0,,False,False,False,False,False
+CUB,Cuba,LAC,2017.0,,False,False,False,False,False
+CUB,Cuba,LAC,2018.0,,False,False,False,False,False
+CUB,Cuba,LAC,2019.0,,False,False,False,False,False
+CUB,Cuba,LAC,2020.0,,False,False,False,False,False
+CUB,Cuba,LAC,2021.0,,False,False,False,False,False
+CUB,Cuba,LAC,2022.0,,False,False,False,False,False
+CUB,Cuba,LAC,2023.0,,False,False,False,False,False
+CUB,Cuba,LAC,2024.0,Residents,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2016.0,Whole country,False,True,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2017.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2018.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2019.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2020.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2021.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2022.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2023.0,Whole country,False,False,False,False,False
+PRK,Democratic People's Republic of Korea,ASIA,2024.0,Whole country,False,False,False,False,False
+COD,Democratic Republic of the Congo,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+COD,Democratic Republic of the Congo,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2016.0,Whole country,False,True,False,False,False
+DJI,Djibouti,EAST AFRICA,2017.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2018.0,Whole country,False,True,False,False,False
+DJI,Djibouti,EAST AFRICA,2019.0,Whole country,False,False,False,False,False
+DJI,Djibouti,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2021.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2022.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2023.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2024.0,Whole country,False,False,False,True,False
+DJI,Djibouti,EAST AFRICA,2025.0,Whole country,False,False,False,False,False
+DMA,Dominica,LAC,2016.0,,False,False,False,False,False
+DMA,Dominica,LAC,2017.0,,False,False,False,False,False
+DMA,Dominica,LAC,2018.0,,False,False,False,False,False
+DMA,Dominica,LAC,2019.0,,False,False,False,False,False
+DMA,Dominica,LAC,2020.0,,False,False,False,False,False
+DMA,Dominica,LAC,2021.0,,False,False,False,False,False
+DMA,Dominica,LAC,2022.0,,False,False,False,False,False
+DMA,Dominica,LAC,2023.0,,False,False,False,False,False
+DMA,Dominica,LAC,2024.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2016.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2017.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2018.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2019.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2020.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2021.0,,False,False,False,False,False
+DOM,Dominican Republic,LAC,2022.0,,False,False,False,True,False
+DOM,Dominican Republic,LAC,2023.0,Residents,False,False,False,True,False
+DOM,Dominican Republic,LAC,2024.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2016.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2017.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2018.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2019.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2020.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2021.0,,False,False,False,False,False
+ECU,Ecuador,LAC,2022.0,Residents and migrants,False,False,False,False,False
+ECU,Ecuador,LAC,2023.0,Residents and migrants,False,False,False,False,False
+ECU,Ecuador,LAC,2024.0,,False,False,False,False,False
+ECU,Ecuador - migrants,LAC,2016.0,,False,False,False,False,False
+ECU,Ecuador - migrants,LAC,2017.0,,False,False,False,False,False
+ECU,Ecuador - migrants,LAC,2018.0,Migrants,False,True,False,False,False
+ECU,Ecuador - migrants,LAC,2019.0,Migrants,False,True,False,False,False
+ECU,Ecuador - migrants,LAC,2020.0,Migrants,False,False,False,False,False
+ECU,Ecuador - migrants,LAC,2021.0,Migrants,False,False,False,False,False
+ECU,Ecuador - migrants,LAC,2022.0,Migrants,False,True,False,False,False
+ECU,Ecuador - migrants,LAC,2023.0,Residents and migrants,False,True,False,False,False
+ECU,Ecuador - migrants,LAC,2024.0,Migrants,False,True,False,False,False
+ECU,Ecuador - migrants,LAC,2025.0,Residents and migrants,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2016.0,Refugees,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2017.0,,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2018.0,Refugees,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2019.0,Refugees,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2020.0,Refugees,False,True,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2021.0,Refugees,False,True,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2022.0,Refugees,False,False,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2023.0,Refugees,False,True,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2024.0,Refugees,False,True,False,False,False
+EGY,"Egypt, Arab Rep.",MENA,2025.0,Refugees,False,False,False,False,False
+SLV,El Salvador,LAC,2016.0,Whole country,False,False,False,False,False
+SLV,El Salvador,LAC,2017.0,Whole country,False,True,False,False,False
+SLV,El Salvador,LAC,2018.0,,False,False,False,True,False
+SLV,El Salvador,LAC,2019.0,,False,False,False,True,False
+SLV,El Salvador,LAC,2020.0,,False,False,False,True,False
+SLV,El Salvador,LAC,2021.0,,False,False,False,True,False
+SLV,El Salvador,LAC,2022.0,,False,False,False,True,False
+SLV,El Salvador,LAC,2023.0,Whole country,False,False,False,True,False
+SLV,El Salvador,LAC,2024.0,Whole country,False,True,False,False,False
+SLV,El Salvador,LAC,2025.0,Whole country,False,True,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2016.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2017.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2018.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2019.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2020.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2021.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2022.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2023.0,,False,False,False,False,False
+GNQ,Equatorial Guinea,CS AFRICA,2024.0,,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2016.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2017.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2018.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2019.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2020.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2021.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2022.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2023.0,Whole country,False,False,False,False,False
+ERI,Eritrea,EAST AFRICA,2024.0,Whole country,False,False,False,False,False
+SWZ,Eswatini,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+SWZ,Eswatini,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+ETH,Ethiopia,EAST AFRICA,2016.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2017.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2018.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2019.0,Whole country,False,False,False,True,False
+ETH,Ethiopia,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+ETH,Ethiopia,EAST AFRICA,2021.0,Whole country,False,False,False,False,True
+ETH,Ethiopia,EAST AFRICA,2022.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2023.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2024.0,Whole country,False,True,False,False,False
+ETH,Ethiopia,EAST AFRICA,2025.0,Whole country,False,True,False,False,False
+FJI,Fiji,ASIA,2016.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2017.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2018.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2019.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2020.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2021.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2022.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2023.0,,False,False,False,False,False
+FJI,Fiji,ASIA,2024.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2016.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2017.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2018.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2019.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2020.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2021.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2022.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2023.0,,False,False,False,False,False
+GAB,Gabon,CS AFRICA,2024.0,,False,False,False,False,False
+GMB,Gambia,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+GMB,Gambia,WEST AFRICA,2017.0,Whole country,False,False,True,False,False
+GMB,Gambia,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+GMB,Gambia,WEST AFRICA,2019.0,Whole country,False,False,True,False,False
+GMB,Gambia,WEST AFRICA,2020.0,Whole country,False,False,True,False,False
+GMB,Gambia,WEST AFRICA,2021.0,Whole country,False,False,True,False,False
+GMB,Gambia,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+GMB,Gambia,WEST AFRICA,2023.0,,False,False,False,False,False
+GMB,Gambia,WEST AFRICA,2024.0,,False,False,False,False,False
+GEO,Georgia,MENA,2016.0,,False,False,False,False,False
+GEO,Georgia,MENA,2017.0,,False,False,False,False,False
+GEO,Georgia,MENA,2018.0,,False,False,False,False,False
+GEO,Georgia,MENA,2019.0,,False,False,False,False,False
+GEO,Georgia,MENA,2020.0,,False,False,False,False,False
+GEO,Georgia,MENA,2021.0,,False,False,False,False,False
+GEO,Georgia,MENA,2022.0,,False,False,False,False,False
+GEO,Georgia,MENA,2023.0,,False,False,False,False,False
+GEO,Georgia,MENA,2024.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2016.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2017.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2018.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2019.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2020.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2021.0,,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2022.0,,False,False,False,True,False
+GHA,Ghana,WEST AFRICA,2023.0,Refugees,False,False,False,False,False
+GHA,Ghana,WEST AFRICA,2024.0,,False,False,False,False,False
+GRD,Grenada,LAC,2016.0,,False,False,False,False,False
+GRD,Grenada,LAC,2017.0,,False,False,False,False,False
+GRD,Grenada,LAC,2018.0,,False,False,False,False,False
+GRD,Grenada,LAC,2019.0,,False,False,False,False,False
+GRD,Grenada,LAC,2020.0,,False,False,False,False,False
+GRD,Grenada,LAC,2021.0,,False,False,False,False,False
+GRD,Grenada,LAC,2022.0,,False,False,False,False,False
+GRD,Grenada,LAC,2023.0,,False,False,False,False,False
+GRD,Grenada,LAC,2024.0,,False,False,False,False,False
+GTM,Guatemala,LAC,2016.0,Whole country,False,True,False,False,False
+GTM,Guatemala,LAC,2017.0,,False,False,True,False,False
+GTM,Guatemala,LAC,2018.0,,False,False,False,True,False
+GTM,Guatemala,LAC,2019.0,,False,False,False,True,False
+GTM,Guatemala,LAC,2020.0,,False,False,False,True,False
+GTM,Guatemala,LAC,2021.0,,False,False,False,True,False
+GTM,Guatemala,LAC,2022.0,Residents and migrants ,False,False,False,True,False
+GTM,Guatemala,LAC,2023.0,Whole country,False,False,False,True,False
+GTM,Guatemala,LAC,2024.0,Whole country,False,False,False,True,False
+GTM,Guatemala,LAC,2025.0,Whole country,False,False,False,True,False
+GIN,Guinea,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2017.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2019.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2020.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2021.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+GIN,Guinea,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+GIN,Guinea,WEST AFRICA,2024.0,Whole country,False,False,True,False,False
+GIN,Guinea,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+GNB,Guinea-Bissau,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2017.0,Whole country,False,False,True,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+GNB,Guinea-Bissau,WEST AFRICA,2020.0,,False,False,False,True,False
+GNB,Guinea-Bissau,WEST AFRICA,2021.0,,False,False,True,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2022.0,,False,False,False,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2023.0,,False,False,False,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2024.0,Residents,False,False,True,False,False
+GNB,Guinea-Bissau,WEST AFRICA,2025.0,Residents,False,False,True,False,False
+GUY,Guyana,LAC,2016.0,,False,False,False,False,False
+GUY,Guyana,LAC,2017.0,,False,False,False,False,False
+GUY,Guyana,LAC,2018.0,,False,False,False,False,False
+GUY,Guyana,LAC,2019.0,,False,False,False,False,False
+GUY,Guyana,LAC,2020.0,,False,False,False,False,False
+GUY,Guyana,LAC,2021.0,,False,False,False,False,False
+GUY,Guyana,LAC,2022.0,,False,False,False,False,False
+GUY,Guyana,LAC,2023.0,,False,False,False,False,False
+GUY,Guyana,LAC,2024.0,,False,False,False,False,False
+HTI,Haiti,LAC,2016.0,Whole country,False,True,False,False,False
+HTI,Haiti,LAC,2017.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2018.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2019.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2020.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2021.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2022.0,Whole country,False,False,False,False,True
+HTI,Haiti,LAC,2023.0,Whole country,False,False,False,True,False
+HTI,Haiti,LAC,2024.0,Whole country,False,False,False,False,True
+HTI,Haiti,LAC,2025.0,Whole country,False,False,False,False,True
+HND,Honduras,LAC,2016.0,Whole country,False,True,False,False,False
+HND,Honduras,LAC,2017.0,Whole country,False,False,True,False,False
+HND,Honduras,LAC,2018.0,,False,False,False,True,False
+HND,Honduras,LAC,2019.0,,False,False,False,True,False
+HND,Honduras,LAC,2020.0,,False,False,False,True,False
+HND,Honduras,LAC,2021.0,,False,False,False,True,False
+HND,Honduras,LAC,2022.0,,False,False,False,True,False
+HND,Honduras,LAC,2023.0,Whole country,False,False,False,True,False
+HND,Honduras,LAC,2024.0,Whole country,False,False,False,True,False
+HND,Honduras,LAC,2025.0,Whole country,False,False,False,False,False
+IND,India,ASIA,2016.0,,False,False,False,False,False
+IND,India,ASIA,2017.0,,False,False,False,False,False
+IND,India,ASIA,2018.0,,False,False,False,False,False
+IND,India,ASIA,2019.0,,False,False,False,False,False
+IND,India,ASIA,2020.0,,False,False,False,False,False
+IND,India,ASIA,2021.0,,False,False,False,False,False
+IND,India,ASIA,2022.0,,False,False,False,False,False
+IND,India,ASIA,2023.0,,False,False,False,False,False
+IND,India,ASIA,2024.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2016.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2017.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2018.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2019.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2020.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2021.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2022.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2023.0,,False,False,False,False,False
+IDN,Indonesia,ASIA,2024.0,,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2016.0,,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2017.0,,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2018.0,,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2019.0,Refugees,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2020.0,Refugees,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2021.0,Refugees,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2022.0,Refugees,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2023.0,Refugees,False,False,False,False,False
+IRN,"Iran, Islamic Rep.",MENA,2024.0,Refugees,False,False,False,False,False
+IRQ,Iraq,MENA,2016.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2017.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2018.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2019.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2020.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2021.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2022.0,Whole country,False,True,False,False,False
+IRQ,Iraq,MENA,2023.0,Refugees,False,True,False,False,False
+IRQ,Iraq,MENA,2024.0,Refugees,False,True,False,False,False
+IRQ,Iraq,MENA,2025.0,"Residents, IDPs and refugees",False,False,False,False,False
+JAM,Jamaica,LAC,2016.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2017.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2018.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2019.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2020.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2021.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2022.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2023.0,,False,False,False,False,False
+JAM,Jamaica,LAC,2024.0,,False,False,False,False,False
+JOR,Jordan,MENA,2016.0,Refugees,False,False,False,False,False
+JOR,Jordan,MENA,2017.0,Refugees,False,False,False,False,False
+JOR,Jordan,MENA,2018.0,Refugees,False,True,False,False,False
+JOR,Jordan,MENA,2019.0,Refugees,False,False,False,False,False
+JOR,Jordan,MENA,2020.0,Refugees,False,True,False,False,False
+JOR,Jordan,MENA,2021.0,Refugees,False,True,False,False,False
+JOR,Jordan,MENA,2022.0,,False,True,False,False,False
+JOR,Jordan,MENA,2023.0,Refugees,False,True,False,False,False
+JOR,Jordan,MENA,2024.0,Refugees,False,True,False,False,False
+JOR,Jordan,MENA,2025.0,Refugees,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2016.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2017.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2018.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2019.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2020.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2021.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2022.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2023.0,,False,False,False,False,False
+KAZ,Kazakhstan,ASIA,2024.0,,False,False,False,False,False
+KEN,Kenya,EAST AFRICA,2016.0,Whole country,False,True,False,False,False
+KEN,Kenya,EAST AFRICA,2017.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2018.0,Whole country,False,True,False,False,False
+KEN,Kenya,EAST AFRICA,2019.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2021.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2022.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2023.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2024.0,Whole country,False,False,False,True,False
+KEN,Kenya,EAST AFRICA,2025.0,Whole country,False,False,False,True,False
+KIR,Kiribati,ASIA,2016.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2017.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2018.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2019.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2020.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2021.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2022.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2023.0,,False,False,False,False,False
+KIR,Kiribati,ASIA,2024.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2016.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2017.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2018.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2019.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2020.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2021.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2022.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2023.0,,False,False,False,False,False
+XKX,Kosovo,MENA,2024.0,,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2016.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2017.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2018.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2019.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2020.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2021.0,Whole country,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2022.0,,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2023.0,Residents,False,False,False,False,False
+KGZ,Kyrgyzstan,ASIA,2024.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2016.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2017.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2018.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2019.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2020.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2021.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2022.0,,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2023.0,Residents,False,False,False,False,False
+LAO,Lao People's Democratic Republic,ASIA,2024.0,,False,False,False,False,False
+LBN,Lebanon ,MENA,2016.0,Refugees,False,False,False,False,False
+LBN,Lebanon ,MENA,2017.0,Refugees,False,False,False,False,False
+LBN,Lebanon ,MENA,2018.0,Refugees,False,True,False,False,False
+LBN,Lebanon ,MENA,2019.0,Refugees,False,True,False,False,False
+LBN,Lebanon ,MENA,2020.0,Whole country,False,True,False,False,False
+LBN,Lebanon ,MENA,2021.0,Whole country,False,True,False,False,False
+LBN,Lebanon ,MENA,2022.0,Whole country,False,False,False,True,False
+LBN,Lebanon ,MENA,2023.0,Whole country,False,False,False,True,False
+LBN,Lebanon ,MENA,2024.0,Whole country,False,False,False,True,False
+LBN,Lebanon ,MENA,2025.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2023.0,Whole country,False,False,True,False,False
+LSO,Lesotho,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+LSO,Lesotho,CS AFRICA,2025.0,Whole country,False,False,True,False,False
+LBR,Liberia,WEST AFRICA,2016.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2017.0,Whole country,False,False,True,False,False
+LBR,Liberia,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+LBR,Liberia,WEST AFRICA,2019.0,Whole country,False,False,True,False,False
+LBR,Liberia,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+LBR,Liberia,WEST AFRICA,2025.0,Whole country,False,False,False,False,False
+LBY,Libya,MENA,2016.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2017.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2018.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2019.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2020.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2021.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2022.0,Whole country,False,True,False,False,False
+LBY,Libya,MENA,2023.0,Whole country,False,False,False,False,False
+LBY,Libya,MENA,2024.0,Whole country,False,False,False,False,False
+MDG,Madagascar,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+MDG,Madagascar,CS AFRICA,2025.0,Whole country,False,False,True,False,False
+MWI,Malawi,CS AFRICA,2016.0,Whole country,False,True,False,False,False
+MWI,Malawi,CS AFRICA,2017.0,Whole country,False,True,False,False,False
+MWI,Malawi,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+MWI,Malawi,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+MWI,Malawi,CS AFRICA,2020.0,Whole country,False,False,True,False,False
+MWI,Malawi,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+MWI,Malawi,CS AFRICA,2022.0,Whole country,False,False,True,False,False
+MWI,Malawi,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+MWI,Malawi,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+MWI,Malawi,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+MYS,Malaysia,ASIA,2016.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2017.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2018.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2019.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2020.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2021.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2022.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2023.0,,False,False,False,False,False
+MYS,Malaysia,ASIA,2024.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2016.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2017.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2018.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2019.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2020.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2021.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2022.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2023.0,,False,False,False,False,False
+MDV,Maldives,ASIA,2024.0,,False,False,False,False,False
+MLI,Mali,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+MLI,Mali,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+MLI,Mali,WEST AFRICA,2023.0,Whole country,False,False,False,False,True
+MLI,Mali,WEST AFRICA,2024.0,Whole country,False,False,False,False,True
+MLI,Mali,WEST AFRICA,2025.0,Whole country,False,False,False,False,True
+MHL,Marshall Islands,ASIA,2016.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2017.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2018.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2019.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2020.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2021.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2022.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2023.0,,False,False,False,False,False
+MHL,Marshall Islands,ASIA,2024.0,,False,False,False,False,False
+MRT,Mauritania,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+MRT,Mauritania,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+MRT,Mauritania,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+MUS,Mauritius,CS AFRICA,2016.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2017.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2018.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2019.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2020.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2021.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2022.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2023.0,,False,False,False,False,False
+MUS,Mauritius,CS AFRICA,2024.0,,False,False,False,False,False
+MEX,Mexico,LAC,2016.0,,False,False,False,False,False
+MEX,Mexico,LAC,2017.0,,False,False,False,False,False
+MEX,Mexico,LAC,2018.0,,False,False,False,False,False
+MEX,Mexico,LAC,2019.0,,False,False,False,False,False
+MEX,Mexico,LAC,2020.0,,False,False,False,False,False
+MEX,Mexico,LAC,2021.0,,False,False,False,False,False
+MEX,Mexico,LAC,2022.0,,False,False,False,False,False
+MEX,Mexico,LAC,2023.0,,False,False,False,False,False
+MEX,Mexico,LAC,2024.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2016.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2017.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2018.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2019.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2020.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2021.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2022.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2023.0,,False,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",ASIA,2024.0,,False,False,False,False,False
+MDA,Moldova,EU,2016.0,,False,False,False,False,False
+MDA,Moldova,EU,2017.0,,False,False,False,False,False
+MDA,Moldova,EU,2018.0,,False,False,False,False,False
+MDA,Moldova,EU,2019.0,,False,False,False,False,False
+MDA,Moldova,EU,2020.0,,False,False,False,False,False
+MDA,Moldova,EU,2021.0,,False,False,False,False,False
+MDA,Moldova,EU,2022.0,,False,False,False,False,False
+MDA,Moldova,EU,2023.0,Refugees,False,False,False,False,False
+MDA,Moldova,EU,2024.0,Residents and refugees,False,False,False,False,False
+MNG,Mongolia,ASIA,2016.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2017.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2018.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2019.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2020.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2021.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2022.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2023.0,,False,False,False,False,False
+MNG,Mongolia,ASIA,2024.0,,False,False,False,False,False
+MNE,Montenegro,EU,2016.0,,False,False,False,False,False
+MNE,Montenegro,EU,2017.0,,False,False,False,False,False
+MNE,Montenegro,EU,2018.0,,False,False,False,False,False
+MNE,Montenegro,EU,2019.0,,False,False,False,False,False
+MNE,Montenegro,EU,2020.0,,False,False,False,False,False
+MNE,Montenegro,EU,2021.0,,False,False,False,False,False
+MNE,Montenegro,EU,2022.0,,False,False,False,False,False
+MNE,Montenegro,EU,2023.0,,False,False,False,False,False
+MNE,Montenegro,EU,2024.0,,False,False,False,False,False
+MAR,Morocco,MENA,2016.0,,False,False,False,False,False
+MAR,Morocco,MENA,2017.0,,False,False,False,False,False
+MAR,Morocco,MENA,2018.0,,False,False,False,False,False
+MAR,Morocco,MENA,2019.0,,False,False,False,False,False
+MAR,Morocco,MENA,2020.0,,False,False,False,False,False
+MAR,Morocco,MENA,2021.0,,False,False,False,False,False
+MAR,Morocco,MENA,2022.0,,False,False,False,False,False
+MAR,Morocco,MENA,2023.0,,False,False,False,False,False
+MAR,Morocco,MENA,2024.0,,False,False,False,False,False
+MOZ,Mozambique,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2018.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+MOZ,Mozambique,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+MMR,Myanmar,ASIA,2016.0,Whole country,False,True,False,False,False
+MMR,Myanmar,ASIA,2017.0,Whole country,False,True,False,False,False
+MMR,Myanmar,ASIA,2018.0,Whole country,False,True,False,False,False
+MMR,Myanmar,ASIA,2019.0,Whole country,False,True,False,False,False
+MMR,Myanmar,ASIA,2020.0,Whole country,False,False,False,False,False
+MMR,Myanmar,ASIA,2021.0,Whole country,False,False,False,False,False
+MMR,Myanmar,ASIA,2022.0,Whole country,False,True,False,False,False
+MMR,Myanmar,ASIA,2023.0,Whole country,False,False,False,True,False
+MMR,Myanmar,ASIA,2024.0,Whole country,False,False,False,True,False
+MMR,Myanmar,ASIA,2025.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2016.0,,False,True,False,False,False
+NAM,Namibia,CS AFRICA,2017.0,,False,True,False,False,False
+NAM,Namibia,CS AFRICA,2018.0,,False,False,False,False,False
+NAM,Namibia,CS AFRICA,2019.0,,False,False,True,False,False
+NAM,Namibia,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+NAM,Namibia,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+NPL,Nepal,ASIA,2016.0,Whole country,False,True,False,False,False
+NPL,Nepal,ASIA,2017.0,Whole country,False,True,False,False,False
+NPL,Nepal,ASIA,2018.0,Whole country,False,False,False,False,False
+NPL,Nepal,ASIA,2019.0,Whole country,False,False,False,False,False
+NPL,Nepal,ASIA,2020.0,,False,False,False,False,False
+NPL,Nepal,ASIA,2021.0,,False,False,False,False,False
+NPL,Nepal,ASIA,2022.0,,False,False,False,False,False
+NPL,Nepal,ASIA,2023.0,,False,False,False,False,False
+NPL,Nepal,ASIA,2024.0,,False,False,False,False,False
+NIC,Nicaragua,LAC,2016.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2017.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2018.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2019.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2020.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2021.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2022.0,,False,True,False,False,False
+NIC,Nicaragua,LAC,2023.0,Residents,False,True,False,False,False
+NIC,Nicaragua,LAC,2024.0,,False,False,False,False,False
+NER,Niger,WEST AFRICA,2016.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+NER,Niger,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2016.0,Whole country,False,False,False,False,True
+NGA,Nigeria,WEST AFRICA,2017.0,Whole country,False,False,False,False,True
+NGA,Nigeria,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+NGA,Nigeria,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+MKD,North Macedonia,EU,2016.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2017.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2018.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2019.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2020.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2021.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2022.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2023.0,,False,False,False,False,False
+MKD,North Macedonia,EU,2024.0,,False,False,False,False,False
+PAK,Pakistan,ASIA,2016.0,Whole country,False,False,False,False,False
+PAK,Pakistan,ASIA,2017.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2018.0,Whole country,False,True,False,False,False
+PAK,Pakistan,ASIA,2019.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2020.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2021.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2022.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2023.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2024.0,Whole country,False,False,False,True,False
+PAK,Pakistan,ASIA,2025.0,Whole country,False,False,False,True,False
+PLW,Palau,ASIA,2016.0,,False,False,False,False,False
+PLW,Palau,ASIA,2017.0,,False,False,False,False,False
+PLW,Palau,ASIA,2018.0,,False,False,False,False,False
+PLW,Palau,ASIA,2019.0,,False,False,False,False,False
+PLW,Palau,ASIA,2020.0,,False,False,False,False,False
+PLW,Palau,ASIA,2021.0,,False,False,False,False,False
+PLW,Palau,ASIA,2022.0,,False,False,False,False,False
+PLW,Palau,ASIA,2023.0,,False,False,False,False,False
+PLW,Palau,ASIA,2024.0,,False,False,False,False,False
+PSE,Palestine,MENA,2016.0,,False,False,False,False,False
+PSE,Palestine,MENA,2017.0,,False,True,False,False,False
+PSE,Palestine,MENA,2018.0,,False,True,False,False,False
+PSE,Palestine,MENA,2019.0,,False,True,False,False,False
+PSE,Palestine,MENA,2020.0,,False,False,False,True,False
+PSE,Palestine,MENA,2021.0,,False,True,False,False,False
+PSE,Palestine,MENA,2022.0,,False,True,False,False,False
+PSE,Palestine - Gaza Strip,MENA,2023.0,Whole country,False,False,False,False,True
+PSE,Palestine - Gaza Strip,MENA,2024.0,Whole country,False,False,False,False,True
+PSE,Palestine - Gaza Strip,MENA,2025.0,Whole country,False,False,False,False,True
+PSE,Palestine - West Bank,MENA,2023.0,Whole country,False,True,False,False,False
+PSE,Palestine - West Bank,MENA,2024.0,Whole country,False,True,False,False,False
+PSE,Palestine - West Bank,MENA,2025.0,Whole country,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2016.0,Whole country,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2017.0,Whole country,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2018.0,Whole country,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2019.0,,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2020.0,,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2021.0,,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2022.0,,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2023.0,,False,False,False,False,False
+PNG,Papua New Guinea,ASIA,2024.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2016.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2017.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2018.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2019.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2020.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2021.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2022.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2023.0,,False,False,False,False,False
+PRY,Paraguay,LAC,2024.0,,False,False,False,False,False
+PER,Peru,LAC,2016.0,,False,False,False,False,False
+PER,Peru,LAC,2017.0,,False,False,False,False,False
+PER,Peru,LAC,2018.0,Migrants,False,True,False,False,False
+PER,Peru,LAC,2019.0,Migrants,False,False,False,False,False
+PER,Peru,LAC,2020.0,Migrants,False,False,False,False,False
+PER,Peru,LAC,2021.0,Migrants,False,False,False,False,False
+PER,Peru,LAC,2022.0,,False,False,False,False,False
+PER,Peru,LAC,2023.0,Residents and refugees,False,True,False,False,False
+PER,Peru - migrants,LAC,2024.0,Migrants,False,False,False,False,False
+PHL,Philippines,ASIA,2016.0,Whole country,False,False,False,False,False
+PHL,Philippines,ASIA,2017.0,Whole country,False,False,False,False,False
+PHL,Philippines,ASIA,2018.0,Whole country,False,False,False,False,False
+PHL,Philippines,ASIA,2019.0,Whole country,False,False,False,False,False
+PHL,Philippines,ASIA,2020.0,,False,False,False,False,False
+PHL,Philippines,ASIA,2021.0,,False,False,False,False,False
+PHL,Philippines,ASIA,2022.0,,False,False,False,False,False
+PHL,Philippines,ASIA,2023.0,,False,False,False,False,False
+PHL,Philippines,ASIA,2024.0,,False,False,False,False,False
+RUS,Russian Federation,,2016.0,,False,False,False,False,False
+RUS,Russian Federation,,2017.0,,False,False,False,False,False
+RUS,Russian Federation,,2018.0,,False,False,False,False,False
+RUS,Russian Federation,,2019.0,,False,False,False,False,False
+RUS,Russian Federation,,2020.0,,False,False,False,False,False
+RUS,Russian Federation,,2021.0,,False,False,False,False,False
+RUS,Russian Federation,,2022.0,,False,False,False,False,False
+RUS,Russian Federation,,2023.0,,False,False,False,False,False
+RUS,Russian Federation,,2024.0,,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2016.0,,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2017.0,,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2018.0,,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2019.0,,False,True,False,False,False
+RWA,Rwanda,EAST AFRICA,2020.0,Refugees,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2021.0,Refugees,False,True,False,False,False
+RWA,Rwanda,EAST AFRICA,2022.0,,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2023.0,Refugees,False,False,False,False,False
+RWA,Rwanda,EAST AFRICA,2024.0,Refugees,False,False,False,False,False
+LCA,Saint Lucia,LAC,2016.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2017.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2018.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2019.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2020.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2021.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2022.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2023.0,,False,False,False,False,False
+LCA,Saint Lucia,LAC,2024.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2016.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2017.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2018.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2019.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2020.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2021.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2022.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2023.0,,False,False,False,False,False
+VCT,Saint Vincent and the Grenadines,LAC,2024.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2016.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2017.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2018.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2019.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2020.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2021.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2022.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2023.0,,False,False,False,False,False
+WSM,Samoa,ASIA,2024.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2016.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2017.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2018.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2019.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2020.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2021.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2022.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2023.0,,False,False,False,False,False
+STP,São Tomé and Principe,CS AFRICA,2024.0,,False,False,False,False,False
+SEN,Senegal,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+SEN,Senegal,WEST AFRICA,2017.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2018.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+SEN,Senegal,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+SRB,Serbia,MENA,2016.0,,False,False,False,False,False
+SRB,Serbia,MENA,2017.0,,False,False,False,False,False
+SRB,Serbia,MENA,2018.0,,False,False,False,False,False
+SRB,Serbia,MENA,2019.0,,False,False,False,False,False
+SRB,Serbia,MENA,2020.0,,False,False,False,False,False
+SRB,Serbia,MENA,2021.0,,False,False,False,False,False
+SRB,Serbia,MENA,2022.0,,False,False,False,False,False
+SRB,Serbia,MENA,2023.0,,False,False,False,False,False
+SRB,Serbia,MENA,2024.0,,False,False,False,False,False
+SLE,Sierra Leone,WEST AFRICA,2016.0,Whole country,False,False,True,False,False
+SLE,Sierra Leone,WEST AFRICA,2017.0,Whole country,False,False,True,False,False
+SLE,Sierra Leone,WEST AFRICA,2018.0,Whole country,False,False,True,False,False
+SLE,Sierra Leone,WEST AFRICA,2019.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2020.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2021.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2022.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2023.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2024.0,Whole country,False,False,False,True,False
+SLE,Sierra Leone,WEST AFRICA,2025.0,Whole country,False,False,False,True,False
+SLB,Solomon Islands,ASIA,2016.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2017.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2018.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2019.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2020.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2021.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2022.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2023.0,,False,False,False,False,False
+SLB,Solomon Islands,ASIA,2024.0,,False,False,False,False,False
+SOM,Somalia,EAST AFRICA,2016.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2017.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2018.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2019.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2021.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2022.0,Whole country,False,False,False,False,True
+SOM,Somalia,EAST AFRICA,2023.0,Whole country,False,False,False,False,True
+SOM,Somalia,EAST AFRICA,2024.0,Whole country,False,False,False,True,False
+SOM,Somalia,EAST AFRICA,2025.0,Whole country,False,False,False,True,False
+ZAF,South Africa,CS AFRICA,2016.0,,False,True,False,False,False
+ZAF,South Africa,CS AFRICA,2017.0,,False,True,False,False,False
+ZAF,South Africa,CS AFRICA,2018.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2019.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2020.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2021.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2022.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2023.0,,False,False,False,False,False
+ZAF,South Africa,CS AFRICA,2024.0,,False,False,False,False,False
+SSD,South Sudan,EAST AFRICA,2016.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2017.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2018.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2019.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+SSD,South Sudan,EAST AFRICA,2021.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2022.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2023.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2024.0,Whole country,False,False,False,False,True
+SSD,South Sudan,EAST AFRICA,2025.0,Whole country,False,False,False,False,True
+LKA,Sri Lanka,ASIA,2016.0,Whole country,False,False,False,False,False
+LKA,Sri Lanka,ASIA,2017.0,Whole country,False,True,False,False,False
+LKA,Sri Lanka,ASIA,2018.0,Whole country,False,False,False,False,False
+LKA,Sri Lanka,ASIA,2019.0,,False,False,False,False,False
+LKA,Sri Lanka,ASIA,2020.0,,False,False,False,False,False
+LKA,Sri Lanka,ASIA,2021.0,,False,False,False,False,False
+LKA,Sri Lanka,ASIA,2022.0,Whole country,False,True,False,False,False
+LKA,Sri Lanka,ASIA,2023.0,Whole country,False,True,False,False,False
+LKA,Sri Lanka,ASIA,2024.0,,False,False,False,False,False
+SDN,Sudan,EAST AFRICA,2016.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2017.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2018.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2019.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2021.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2022.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2023.0,Whole country,False,False,False,True,False
+SDN,Sudan,EAST AFRICA,2024.0,Whole country,False,False,False,False,True
+SDN,Sudan,EAST AFRICA,2025.0,Whole country,False,False,False,False,True
+SUR,Suriname,LAC,2016.0,,False,False,False,False,False
+SUR,Suriname,LAC,2017.0,,False,False,False,False,False
+SUR,Suriname,LAC,2018.0,,False,False,False,False,False
+SUR,Suriname,LAC,2019.0,,False,False,False,False,False
+SUR,Suriname,LAC,2020.0,,False,False,False,False,False
+SUR,Suriname,LAC,2021.0,,False,False,False,False,False
+SUR,Suriname,LAC,2022.0,,False,False,False,False,False
+SUR,Suriname,LAC,2023.0,,False,False,False,False,False
+SUR,Suriname,LAC,2024.0,,False,False,False,False,False
+SYR,Syrian Arab Republic,MENA,2016.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2017.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2018.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2019.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2020.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2021.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2022.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2023.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2024.0,Whole country,False,True,False,False,False
+SYR,Syrian Arab Republic,MENA,2025.0,Whole country,False,False,False,False,False
+TJK,Tajikistan,ASIA,2016.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2017.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2018.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2019.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2020.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2021.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2022.0,,False,False,False,False,False
+TJK,Tajikistan,ASIA,2023.0,Residents,False,False,False,False,False
+TJK,Tajikistan,ASIA,2024.0,,False,False,False,False,False
+THA,Thailand,ASIA,2016.0,,False,False,False,False,False
+THA,Thailand,ASIA,2017.0,,False,False,False,False,False
+THA,Thailand,ASIA,2018.0,,False,False,False,False,False
+THA,Thailand,ASIA,2019.0,,False,False,False,False,False
+THA,Thailand,ASIA,2020.0,,False,False,False,False,False
+THA,Thailand,ASIA,2021.0,,False,False,False,False,False
+THA,Thailand,ASIA,2022.0,,False,False,False,False,False
+THA,Thailand,ASIA,2023.0,,False,False,False,False,False
+THA,Thailand,ASIA,2024.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2016.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2017.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2018.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2019.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2020.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2021.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2022.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2023.0,,False,False,False,False,False
+TLS,Timor-Leste,ASIA,2024.0,Residents and IDPs,False,False,False,True,False
+TLS,Timor-Leste,ASIA,2025.0,Residents and IDPs,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2016.0,,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2017.0,,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2018.0,,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2019.0,,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2020.0,,False,False,False,True,False
+TGO,Togo,WEST AFRICA,2021.0,,False,False,False,False,False
+TGO,Togo,WEST AFRICA,2022.0,,False,False,False,True,False
+TGO,Togo,WEST AFRICA,2023.0,Residents and refugees,False,False,False,True,False
+TGO,Togo,WEST AFRICA,2024.0,"Residents, IDPs and refugees",False,False,True,False,False
+TGO,Togo,WEST AFRICA,2025.0,Residents and refugees,False,False,False,True,False
+TON,Tonga,ASIA,2016.0,,False,False,False,False,False
+TON,Tonga,ASIA,2017.0,,False,False,False,False,False
+TON,Tonga,ASIA,2018.0,,False,False,False,False,False
+TON,Tonga,ASIA,2019.0,,False,False,False,False,False
+TON,Tonga,ASIA,2020.0,,False,False,False,False,False
+TON,Tonga,ASIA,2021.0,,False,False,False,False,False
+TON,Tonga,ASIA,2022.0,,False,False,False,False,False
+TON,Tonga,ASIA,2023.0,,False,False,False,False,False
+TON,Tonga,ASIA,2024.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2016.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2017.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2018.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2019.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2020.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2021.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2022.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2023.0,,False,False,False,False,False
+TUN,Tunisia,MENA,2024.0,,False,False,False,False,False
+TUR,Türkiye,MENA,2016.0,Refugees,False,False,False,False,False
+TUR,Türkiye,MENA,2017.0,Refugees,False,False,False,False,False
+TUR,Türkiye,MENA,2018.0,Whole country,False,True,False,False,False
+TUR,Türkiye,MENA,2019.0,Refugees,False,True,False,False,False
+TUR,Türkiye,MENA,2020.0,Refugees,False,False,False,True,False
+TUR,Türkiye,MENA,2021.0,Refugees,False,False,False,False,False
+TUR,Türkiye,MENA,2022.0,,False,False,False,False,False
+TUR,Türkiye,MENA,2023.0,Residents and refugees,False,True,False,False,False
+TUR,Türkiye,MENA,2024.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2016.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2017.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2018.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2019.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2020.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2021.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2022.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2023.0,,False,False,False,False,False
+TKM,Turkmenistan,ASIA,2024.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2016.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2017.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2018.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2019.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2020.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2021.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2022.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2023.0,,False,False,False,False,False
+TUV,Tuvalu,ASIA,2024.0,,False,False,False,False,False
+UGA,Uganda,EAST AFRICA,2016.0,Whole country,False,False,True,False,False
+UGA,Uganda,EAST AFRICA,2017.0,Whole country,False,False,True,False,False
+UGA,Uganda,EAST AFRICA,2018.0,Refugees,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2019.0,Whole country,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2020.0,Whole country,False,False,False,True,False
+UGA,Uganda,EAST AFRICA,2021.0,Whole country,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2022.0,Whole country,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2023.0,Whole country,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2024.0,Whole country,False,True,False,False,False
+UGA,Uganda,EAST AFRICA,2025.0,Whole country,False,True,False,False,False
+UKR,Ukraine,EU,2016.0,,False,False,False,False,False
+UKR,Ukraine,EU,2017.0,,False,True,False,False,False
+UKR,Ukraine,EU,2018.0,,False,True,False,False,False
+UKR,Ukraine,EU,2019.0,,False,True,False,False,False
+UKR,Ukraine,EU,2020.0,IDPs,False,True,False,False,False
+UKR,Ukraine,EU,2021.0,IDPs,False,True,False,False,False
+UKR,Ukraine,EU,2022.0,Whole country,False,True,False,False,False
+UKR,Ukraine,EU,2023.0,Whole country,False,True,False,False,False
+UKR,Ukraine,EU,2024.0,Whole country,False,True,False,False,False
+UKR,Ukraine,EU,2025.0,Whole country,False,False,False,False,False
+TZA,United Republic of Tanzania,CS AFRICA,2016.0,,False,True,False,False,False
+TZA,United Republic of Tanzania,CS AFRICA,2017.0,,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2018.0,,False,False,False,False,False
+TZA,United Republic of Tanzania,CS AFRICA,2019.0,,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2022.0,Whole country,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+TZA,United Republic of Tanzania,CS AFRICA,2024.0,Whole country,False,False,True,False,False
+TZA,United Republic of Tanzania,CS AFRICA,2025.0,Whole country,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2016.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2017.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2018.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2019.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2020.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2021.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2022.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2023.0,,False,False,False,False,False
+UZB,Uzbekistan,ASIA,2024.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2016.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2017.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2018.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2019.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2020.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2021.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2022.0,,False,False,False,False,False
+VUT,Vanuatu,ASIA,2023.0,Residents,False,False,False,False,False
+VUT,Vanuatu,ASIA,2024.0,,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2016.0,,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2017.0,,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2018.0,,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2019.0,Whole country,False,True,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2020.0,Whole country,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2021.0,Whole country,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2022.0,Whole country,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2023.0,Whole country,False,False,False,False,False
+VEN,Venezuela (Bolivarian Republic of),LAC,2024.0,Whole country,False,False,False,False,False
+VNM,Vietnam,ASIA,2016.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2017.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2018.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2019.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2020.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2021.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2022.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2023.0,,False,False,False,False,False
+VNM,Vietnam,ASIA,2024.0,,False,False,False,False,False
+YEM,Yemen,MENA,2016.0,Whole country,False,False,False,True,False
+YEM,Yemen,MENA,2017.0,Whole country,False,False,False,True,False
+YEM,Yemen,MENA,2018.0,Whole country,False,False,False,False,True
+YEM,Yemen,MENA,2019.0,Whole country,False,False,False,False,True
+YEM,Yemen,MENA,2020.0,Whole country,False,False,False,False,True
+YEM,Yemen,MENA,2021.0,Whole country,False,False,False,False,True
+YEM,Yemen,MENA,2022.0,Whole country,False,False,False,False,True
+YEM,Yemen,MENA,2023.0,Whole country,False,True,False,False,False
+YEM,Yemen,MENA,2024.0,Whole country,False,False,False,True,False
+YEM,Yemen,MENA,2025.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2016.0,,False,True,False,False,False
+ZMB,Zambia,CS AFRICA,2017.0,,False,True,False,False,False
+ZMB,Zambia,CS AFRICA,2018.0,,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2022.0,Whole country,False,False,True,False,False
+ZMB,Zambia,CS AFRICA,2023.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2024.0,Whole country,False,False,False,True,False
+ZMB,Zambia,CS AFRICA,2025.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2016.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2017.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2018.0,Whole country,False,True,False,False,False
+ZWE,Zimbabwe,CS AFRICA,2019.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2020.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2021.0,Whole country,False,False,False,True,False
+ZWE,Zimbabwe,CS AFRICA,2022.0,Whole country,False,True,False,False,False
+ZWE,Zimbabwe,CS AFRICA,2023.0,Whole country,False,True,False,False,False
+ZWE,Zimbabwe,CS AFRICA,2024.0,Whole country,False,True,False,False,False
+ZWE,Zimbabwe,CS AFRICA,2025.0,Whole country,False,True,False,False,False
+,,,,,False,False,False,False,False
+,,,,,False,False,False,False,False

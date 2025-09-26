@@ -66,7 +66,8 @@ Data columns:
 # Read CSV file (Relative path to this script)
 grfc_metadata = pd.read_csv("MOD550-P1-NLB-datasets/MOD550-P1-NLB-GRFC/metadata-fsin-grfc.csv")
 # Read XLSX file (Relative path to this script)
-grfc_data = pd.read_excel("MOD550-P1-NLB-datasets/MOD550-P1-NLB-GRFC/grfc_afi_database_2016-2024.xlsx")
+grfc_data = pd.read_excel("MOD550-P1-NLB-datasets/MOD550-P1-NLB-GRFC/grfc_afi_database_2016-2024.xlsx",
+                          sheet_name="GRFC 2025_AFI Master")
 # Preview metadata headers
 grfc_data.head(5)
 

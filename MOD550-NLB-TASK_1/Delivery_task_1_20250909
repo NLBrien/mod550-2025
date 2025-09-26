@@ -1,0 +1,31 @@
+Project delivery task 1 (18.5.2025)
+
+Hi all,
+
+For Tuesday next week, I assigned 5 tasks:
+
+    Task 1: make a histogram from a 2d random distribution
+    Task 2: make a 2d heat map from a 2d random distribution
+    Task 3: make a histogram for the source data you selected
+    Task 4: convert the histogram into a discrete PMF
+    Task 5: calculate the cumulative for each feature
+
+For each of these task, make a function contained in a DataAquisition class.
+
+Save that class in a file and import it in your jupyter notebook
+
+For task 3, I suggest you to first make a dyummy test file, like test.csv. Save there a few numbers, eg:
+
+    1, 2,3, 4, 5
+
+    6, 7, 8, 3, 2
+
+Then make sure that your code can read those data correctly. Once you managed, ONLY THEN use the data generated from your selected database.
+
+To read a file you can do in different way, numpy and pandas are probably the easiest. I will shortly introduce these libraries on Thursday.
+
+Task 4 & 5: Compute the distributions and make a plot
+
+Depending on the dataset, the time consuming work will be the data cleaning procedure we discussed today. If you opted for a nice dataset, there might be not much work. If you notice that your data is too poor, you can still consider to opt for other dataset.
+
+I will pick up the deliveries on Tuesday morning from GIT. In case you haven't do it yet, make your own repository.
