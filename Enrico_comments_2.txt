@@ -1,0 +1,61 @@
+
+Readme.md: GREAT, but also would have been good to have aguidance of what the repo contains. You have many files.
+
+Task 1: Good!
+Task 2: Good!
+Task 3: Good!
+Task 4: Good!
+Task 5: Good!
+Task 6: Good!
+Task 7: Good!
+Task 8: Good!
+Task 9: Good!
+
+Task 10 a: missing. 
+Task 10 b: missing. 
+Task 10 c: missing. 
+Task 10 d: missing. 
+Task 10 e: missing.
+
+Comments:
+========
+
+python : use pylint for detailed suggstions, overall it is good. Docstring  a bit strange,  but very good usage examples.
+normal docrstrings:
+
+def Gaussian_Mixture_Model(GMM_x, component_nb = 2, RSEED = 42):
+    """
+    Gaussian Mixture Model (GMM) in simple Python using sklearn
+
+    Before using this function, ensure that:
+        - The necessary libraries are imported (NumPy, sklearn)
+        - The input data is numeric
+        - The data contains no NaN values
+    Parameters:
+        GMM_x : [array], Feature data (1D or 2D)
+        GMM_y : [array], Optional second feature dimension (1D or 2D)
+        component_nb : [int], Number of Gaussian components (clusters) to fit (default = 2)
+        RSEED : [int], Random seed for reproducibility (default = 42)
+    Returns:
+        GMM_labels : [ndarray], cluster assignment for each point
+        GMM_probs : [ndarray], soft probabilities of belonging to each cluster
+        GMM_means : [ndarray], estimated Gaussian means
+        GMM_covariances : [ndarray], covariance matrices of each Gaussian component
+        GMM_model : [GaussianMixture object], the trained GMM model
+    """
+
+    do = many + things
+
+    return GMM_labels, GMM_probsm, GMM_means, GMM_covariances, GMM_model
+
+This formatting is actually useful to keep as it can be picked up by several service python softwares. and AI integrations.
+
+    
+Jupyter notebook: very nice work, involving. You need to convey your interest to a reader. What I mean is that you should also prioritize the readibility of your notebooks. You have an information overflow, that is, too much info all together. 
+
+My suggestion is to have a single notebook where you provide as little code as posible (literally one or two lines for each cell) and all the rest are functions that you can import from a .py file. In this way you don't distract a reader of your notebook from the coding.
+WHen you have multiple files, it would be useful to have a readme files to guide me (or a reader) to see what to expect.
+
+In this task I wanted you to hold n the real case and TRAIN yourself a bit more on these TEST data before to take advantage of the VALIDATION of your tools/understanding.  Once that is done you would start mastering these techniques and thus be aware of what to use, how and what to expect. If you use a complicated tool to do a maybe simple task and something goes wrong, there are too many degrees of freedom to reach to a reliable outcome.
+
+I don't want to sound unfair, you did a lot of work and I am giving you as much feedback as possible because I did enjoy to see your work and I would like you to be ableto polish it to get the recognition it diserve. Of course this is a course, thus we have here the luxury of wor on the base principles.
